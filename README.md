@@ -5,7 +5,6 @@ This project analyzes tree data using PySpark, running inside a Docker container
 ## Project Structure
 
 - `analysis.py`: Main PySpark script for analyzing tree data.
-- `arbre.py`: Defines the `Arbre` class used in the analysis.
 - `arbres.csv`: Data file containing information about trees.
 - `Dockerfile`: Optional Dockerfile for setting up the environment.
 
